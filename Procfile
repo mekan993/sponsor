@@ -1,1 +1,1 @@
-worker: spon.py
+worker: python spon.py

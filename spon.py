@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot maglumatary
-BOT_TOKEN = "7271748139:AAGS9Y0gARqDa-KGniq9hyQFNhpP4xoVK80"
+BOT_TOKEN = "7271748139:AAHgP_wavsPPwW2aU7DCaJKjmC_OZlz6B6U"
 ADMIN_ID = 7394635812
 
 # Maglumatlar üçin faýl adlary
